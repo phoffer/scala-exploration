@@ -1,0 +1,5 @@
+// args.foreach(arg => println(arg))
+// args.foreach((arg: String) => println(arg))
+args.foreach(println)
+// var si = args.map(_.size)
+// println(si)
